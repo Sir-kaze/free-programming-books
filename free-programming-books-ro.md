@@ -1,9 +1,10 @@
 ### Index
 
 * [Ajax](#ajax)
-* [HTML](#hmtl)
+* [HTML](#html)
 * [MySQL](#mysql)
 * [PHP](#php)
+  * [Symfony](#symfony)
 * [Scratch](#scratch)
 
 
@@ -12,7 +13,7 @@
 * [Ajax](http://etutoriale.ro/articles/1483/1/Tutorial-Ajax/)
 
 
-### HMTL
+### HTML
 
 * [HTML](http://tutorialehtml.com/ro/introducere-in-html/)
 
@@ -25,6 +26,11 @@
 ### PHP
 
 * [PHP](http://php.punctsivirgula.ro)
+
+
+#### Symfony
+
+* [Symfony 5: Curs rapid](https://symfony.com/doc/current/the-fast-track/ro/index.html)
 
 
 ### Scratch
